@@ -45,3 +45,6 @@ npm start
 | `name` | String | Name of the course |
 | `code` | String | Course code e.g. CS101 |
 | `credits` | Number | Number of credits |
+Author 
+Nsubuga Pius
+piusnsubuga86@gmail.com
