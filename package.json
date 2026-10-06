@@ -1,0 +1,17 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "Clean REST API with Express &amp; Joi - CRUD for campus courses. My first Node.js API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "joi": "^18.2.9"
+  }
+}
