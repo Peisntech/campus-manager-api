@@ -4,7 +4,6 @@
 A simple and fast REST API for managing campus courses, built with Node.js and Express.
 
 Live API: https://peisntech.github.io/campus-manager-api/
-https://your-api.onrender.com/api/courses
 
 ## 🚀 Features
 - Get all courses
